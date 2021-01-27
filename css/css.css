@@ -1,0 +1,9 @@
+body{
+    background-color:cornflowerblue;
+}
+
+h1{
+    color: deepskyblue;
+    border: 2px solid #000000;
+    display: inline-block;
+}
